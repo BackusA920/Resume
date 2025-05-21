@@ -1,0 +1,96 @@
+body {
+  font-family: Georgia, serif;
+  margin: 40px;
+  color: #333;
+  line-height: 1.6;
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 2px solid #999;
+  padding-bottom: 0px;
+}
+
+.photo {
+  width: 110px;
+  height: 145px;
+  border-radius:8px;
+  object-fit: cover;
+}
+
+h1 {
+  font-size: 36px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 16px;
+  font-weight: normal;
+  margin-top: 5px;
+  color: #666;
+}
+
+section {
+  margin-top: 30px;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 5px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 4px;
+}
+
+.columns {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.column {
+  flex: 1;
+}
+
+.tech-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.tech-table td {
+  border: 1px solid #ddd;
+  padding: 6px 10px;
+}
+
+.job {
+  margin-bottom: 20px;
+}
+
+.footer {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 40px;
+  border-top: 1px solid #999;
+  padding-top: 10px;
+}
+
+a {
+  color: #336699;
+  text-decoration: none;
+}
+
+.download-btn {
+  background: #333;
+  color: #fff;
+  padding: 6px 12px;
+  font-size: 12px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+If you'd like, I can zip both files together 
