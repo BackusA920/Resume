@@ -14,8 +14,6 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  border-bottom: 2px solid #999;
-  padding-bottom: 0px;
 }
 
 .photo {
@@ -35,10 +33,6 @@ h2 {
   font-weight: normal;
   margin-top: 5px;
   color: #666;
-}
-
-section {
-  margin-top: 30px;
 }
 
 h3 {
@@ -93,4 +87,3 @@ a {
   border-radius: 4px;
   text-decoration: none;
 }
-If you'd like, I can zip both files together 
