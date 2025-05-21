@@ -3,7 +3,7 @@
 
 <a href="https://backusa920.github.io/Resume/">
 
-  <img src="https://raw.githubusercontent.com/BackusA920/portfolio/refs/heads/main/assets/2025-05-19%2020_54_43-April's%20Portfolio.png" width="500">
+  <img src="https://raw.githubusercontent.com/BackusA920/Resume/refs/heads/main/assets/resume.png" width="500">
 </a>
 <br><br>
 <a href="https://backusa920.github.io/Resume/">
