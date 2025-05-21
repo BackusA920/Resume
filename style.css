@@ -87,3 +87,13 @@ a {
   border-radius: 4px;
   text-decoration: none;
 }
+
+@media (max-width: 768px) {
+  .columns {
+    flex-direction: column;
+  }
+
+  .column {
+    min-width: 100%;
+  }
+}
